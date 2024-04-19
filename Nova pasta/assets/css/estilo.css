@@ -1,0 +1,91 @@
+.BD {
+   margin-left: 90;
+   margin-right: 90;
+   border: 10px;
+}
+
+.N {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T1 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG1 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 100px;
+}
+
+.A1 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.A2 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T2 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG2 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 100px;
+}
+
+.A3 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T3 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG3 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 100px;
+}
+
+.A4 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.A5 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;;
+}
+
+.A6 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
